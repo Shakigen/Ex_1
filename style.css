@@ -1,23 +1,26 @@
-﻿body {
-    background-color: #E0FFFF;
+body {
+    background-color: #c1fdff;
 }
 
 h1 {
+    font-family: Calibri, sans-serif;
     text-align: center;
+}
+
+p {
+    font-family: Calibri, sans-serif;
 }
 
 #header2 {
+    font-family: Calibri, sans-serif;
     text-align: center;
-    color: #666D6F;
+    color: #808080;
 }
 
 #header3 {
+    font-family: Calibri, sans-serif;
     text-align: center;
-    color: #b00000;
-}
-
-hr {
-    color: #9AA8A7;
+    color: #bf2424;
 }
 
 .right {
