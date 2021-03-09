@@ -1,0 +1,25 @@
+﻿body {
+    background-color: #E0FFFF;
+}
+
+h1 {
+    text-align: center;
+}
+
+#header2 {
+    text-align: center;
+    color: #666D6F;
+}
+
+#header3 {
+    text-align: center;
+    color: #b00000;
+}
+
+hr {
+    color: #9AA8A7;
+}
+
+.right {
+    text-align: right;
+}
